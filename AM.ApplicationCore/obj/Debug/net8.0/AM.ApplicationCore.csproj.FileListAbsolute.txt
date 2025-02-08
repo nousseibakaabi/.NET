@@ -20,3 +20,15 @@ C:\WORKSHOP\NET\AirportManagement1\AM.ApplicationCore\obj\Debug\net8.0\AM.Applic
 C:\WORKSHOP\NET\AirportManagement1\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
 C:\WORKSHOP\NET\AirportManagement1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
 C:\WORKSHOP\NET\AirportManagement1\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.sourcelink.json
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\nouss\OneDrive\Documents\GitHub\.NET\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll

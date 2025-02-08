@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.UI.Console\\AM.UI.Console.csproj": {}
+    "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.UI.Console\\AM.UI.Console.csproj": {}
   },
   "projects": {
-    "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\nouss\\.nuget\\packages\\",
-        "outputPath": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.UI.Console\\AM.UI.Console.csproj": {
+    "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.UI.Console\\AM.UI.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.UI.Console\\AM.UI.Console.csproj",
+        "projectUniqueName": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.UI.Console\\AM.UI.Console.csproj",
         "projectName": "AM.UI.Console",
-        "projectPath": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.UI.Console\\AM.UI.Console.csproj",
+        "projectPath": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.UI.Console\\AM.UI.Console.csproj",
         "packagesPath": "C:\\Users\\nouss\\.nuget\\packages\\",
-        "outputPath": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.UI.Console\\obj\\",
+        "outputPath": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.UI.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-                "projectPath": "C:\\WORKSHOP\\NET\\AirportManagement1\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+              "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\nouss\\OneDrive\\Documents\\GitHub\\.NET\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
               }
             }
           }
