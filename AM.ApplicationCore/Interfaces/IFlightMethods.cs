@@ -14,5 +14,19 @@ namespace AM.ApplicationCore.Interfaces
         public List<Flight> GetFlights(string filterType, string filterValue);
 
         public void ShowFlightDetails(Plane plane);
+
+        public int ProgrammedFlightNumber(DateTime startDate);
+
+        public double DurationAverage(string destination);
+
+        //public IList<Flight> OrderedDurationFlights();
+
+        public IEnumerable<Flight> OrderedDurationFlights();
+
+        public IEnumerable<Passenger> SeniorTravellers(Flight flight);
+
+        public IEnumerable<IGrouping<string, Flight>> DestinationGroupedFlights();
+
     }
+
 }
